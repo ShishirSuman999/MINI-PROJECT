@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #001f3f; /* Dark blue */
+    color: white;
+    padding: 1rem;
+}
+
+.navbar ul {
+    list-style-type: none;
+}
+
+.navbar ul li {
+    display: inline;
+    margin: 0 15px;
+}
